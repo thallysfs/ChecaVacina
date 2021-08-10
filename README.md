@@ -13,7 +13,7 @@
  - Clone o repositório
  - Instale as bibliotecas, inclusive a Selenium.
  - Crie um arquivo "Appsettings.json", informando seus dados do servidor SMTP e dados do registro que deseja consultar. Exemplo:
- - <BR/>
+  <BR/>
  {<BR/>
   "Configuration": {<BR/>
     "Email": "seu@mail.com",<BR/>
@@ -39,7 +39,7 @@
  - Execute o "ChecaVacina.exe"
  - Exemplo de execução:
  <h1 align="center">
-  <img alt="Software" title="#software" src="./emailEnviado.png" />
+  <img alt="Software" title="#software" src="./ChecaVacina/emailEnviado.png" />
 </h1>
  - Se o seu nome aparecer na lista, um e-mail será enviado.
  
